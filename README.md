@@ -1,3 +1,5 @@
+jff : just for fun
+
 DESIGN
 Outside main class:
 1) Create a List Array of type String
