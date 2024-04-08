@@ -1,4 +1,3 @@
-jff : just for fun
 
 DESIGN
 Outside main class:
