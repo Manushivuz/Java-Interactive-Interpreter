@@ -24,10 +24,14 @@ Show results or errors based on the executed code.
 Implement mechanisms to handle syntax errors, runtime exceptions, etc.
 
 FLOWCHART
+
+
 ![image](https://github.com/Manushivuz/jff/assets/166439117/572412b5-c7d0-4f6f-9176-d42a2d364bfb)
 
 
 OUTPUT SCREENSHOTS
+
+
 ![image](https://github.com/Manushivuz/jff/assets/166439117/60dafea0-762d-4501-8d0f-0bea5e3f22c2)
 ![image](https://github.com/Manushivuz/jff/assets/166439117/4b6b8dc3-033f-472c-b822-88cb25972817)
 ![image](https://github.com/Manushivuz/jff/assets/166439117/c16fde60-c582-40e2-a783-6dfc4f237038)
